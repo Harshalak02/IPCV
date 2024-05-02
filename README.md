@@ -1,5 +1,6 @@
 
-Wildlife Animal Detection at Night Time
+##Wildlife Animal Detection at Night Time##
+
 Overview
 This repository contains a project focused on detecting wildlife animals at night time using object detection techniques. The project involves the creation of a dataset comprising images sourced from various sources. The dataset includes images of lions, tigers, leopards, and bears.
 
